@@ -1,4 +1,4 @@
-redifeed
+youfeed
 ========
 
-populate rss feeds into redis
+populate youtube feeds into redis
